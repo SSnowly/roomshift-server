@@ -34,11 +34,8 @@ Build binaries instead:
 
 ```bash
 go build -o roomshift-server .                                        # for this machine
-GOOS=linux GOARCH=amd64 CGO_ENABLED=0 go build -o roomshift-server-linux .   # for the VPS
+GOOS=linux GOARCH=amd64 CGO_ENABLED=0 go build -o roomshift-server-linux .   # for linux machines
 ```
-
-The repo keeps a prebuilt `roomshift-server.exe` for the local co-op tests and
-`roomshift-server-linux` for deployment.
 
 Check it is up:
 
