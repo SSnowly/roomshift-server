@@ -1,3 +1,4 @@
+<img width="1774" height="887" alt="render_logo_wide" src="https://github.com/user-attachments/assets/256d2624-5c24-4cd9-8db6-df453253b64f" />
 # Roomshift room server
 
 The relay that makes co-op work. It knows nothing about the game: one player hosts a room
